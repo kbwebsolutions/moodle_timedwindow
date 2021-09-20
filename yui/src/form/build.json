@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_timewindow-form",
+  "builds": {
+    "moodle-availability_timewindow-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
